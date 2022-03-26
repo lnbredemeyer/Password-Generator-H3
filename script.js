@@ -1,5 +1,5 @@
 //Array of password length
-var passwordLength = 8;
+var passwordLength = [];
 
 //Array of picking the password
 var pickingArr = [];
