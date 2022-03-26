@@ -27,7 +27,8 @@
 * THEN the password is either displayed in an alert or written to the page
 
 - Screenshot:
-![alt tag] (https://user-images.githubusercontent.com/99215212/160227689-0ee24433-92c5-4cc0-9357-19f8c329b37a.png "screenshot")
+
+![alt tag](https://user-images.githubusercontent.com/99215212/160227689-0ee24433-92c5-4cc0-9357-19f8c329b37a.png "screenshot")
 
 - To view the new password generator, please click: https://lnbredemeyer.github.io/Password-Generator-H3/
 ```
