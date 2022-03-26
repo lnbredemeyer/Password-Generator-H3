@@ -95,8 +95,6 @@ var numbers = [
 //generating the actual password
 var generateBtn = document.querySelector("#generate");
 
-generateBtn.addEventListener("click", writePassword);
-
 //getting the password
 function writePassword() {
   var goodPrompts = getPrompts();
@@ -109,6 +107,8 @@ function writePassword() {
     passwordText.value = "";
   }
 }
+
+generateBtn.addEventListener("click", writePassword);
 
 //creating the password
 function generatePassword() {
